@@ -11,6 +11,7 @@ public class Main {
         String car6 = "Ford2";
         String car7 = "Pagani Zonda Cinque";
         String car8 = "BMW";
+        String car9 = "Ferrari";
 
     }
 }
