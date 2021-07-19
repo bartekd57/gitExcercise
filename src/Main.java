@@ -3,7 +3,12 @@ public class Main {
 
         System.out.println("Hello World");
         //comment
+
         String car = "Audi a4";
+
+        
+        String car2 = "Seat";
+
 
 
     }
