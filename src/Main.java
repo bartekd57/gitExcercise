@@ -6,6 +6,7 @@ public class Main {
         String car = "Audi";
         String car2 = "Seat";
         String car3= "Mercedes";
+        String car4 = "Skoda Superb";
 
 
     }
