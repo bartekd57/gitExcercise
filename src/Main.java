@@ -8,7 +8,8 @@ public class Main {
         String car3= "Mercedes C63 AMG";
         String car4 = "Skoda Superb gen 3";
         String car5 = "Skoda Fabia";
-        String car6 = "Ford";
+        String car6 = "Ford2";
+        String car7 = "Pagani";
 
     }
 }
