@@ -10,6 +10,7 @@ public class Main {
         String car5 = "Skoda Fabia";
         String car6 = "Ford2";
         String car7 = "Pagani";
+        String car8 = "BMW";
 
     }
 }
